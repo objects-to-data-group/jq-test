@@ -3,7 +3,7 @@
     "location":
             {
                 "street": "Spui 21",
-                "postal code": "1000 GG",
+                "postcode": "1000 GG",
                 "city": "Amsterdam",
                 "country": "NL",
                 "phone": "+31 (0)20 525 9111"
