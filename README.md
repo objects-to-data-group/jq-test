@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # A SIMPLE JQ TEST #
 
 You want to work with jq and get some results, that obvious, but is `jq` allready installed on your system?
@@ -61,9 +60,3 @@ Happy `jq`ing...
 ### Feedback ###
 
 If you have questions or want to give some feedback you can contact me @ objects2data@gmail.com
-=======
-jq-test
-=======
-
-Test file for jq
->>>>>>> e9f9fddc1c32751f353778c47caf2cf91ed020e7
