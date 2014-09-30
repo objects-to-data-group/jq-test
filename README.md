@@ -9,12 +9,21 @@ Lets find out...
 * type in `which jq` or `jq --version`
 	* this should give you an answer wether jq is installed.
 
-### jq is not installed ###
+### jq is not installed (oops...) ###
+
+#### MAC ####
 
 If `jq` isn't installed on your MAC you have several options;
 
 * install with homebrew; `brew install jq`
-* install from the homepage http://stedolan.github.io/jq/download/
+	* if you don't have homebrew installed follow the steps on http://brew.sh
+* install from the jq homepage http://stedolan.github.io/jq/download/
+
+#### PC ####
+
+If `jq` isn't installed on your Windos Thingy you have to install from the jq homepage http://stedolan.github.io/jq/download/
+
+## Test and play with `jq` ##
 
 * if `jq` is installed:
 	* place the directory named `jq-test` in a convienent location on your hard-drive
@@ -53,7 +62,13 @@ If `jq` isn't installed on your MAC you have several options;
 * navigating down the `JSON` tree;
 	* type `cat jason-jq-test.txt | jq '.location.street'`
 	* the return value in Terminal should be: `Spui 21`
-* Now you know the very basics of `jq`
+* At least now you know if `jq` is installed and working
+
+### `jq` Manual ###
+
+To learn all the `jq` commands and options visit: 
+
+http://stedolan.github.io/jq/manual/
 
 Happy `jq`ing...
 
