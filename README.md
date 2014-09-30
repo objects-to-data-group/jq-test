@@ -7,7 +7,7 @@ Lets find out...
 
 * Open `Terminal`
 * type in `which jq` or `jq --version`
-	* this should give you an answer wether jq is installed.
+	* this should give you an answer if `jq` is installed.
 
 ### jq is not installed (oops...) ###
 
