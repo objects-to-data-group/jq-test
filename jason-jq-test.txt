@@ -1,0 +1,41 @@
+{
+    "name": "UvA",
+    "location":
+            {
+                "street": "Spui 21",
+                "postal code": "1000 GG",
+                "city": "Amsterdam",
+                "country": "NL",
+                "phone": "+31 (0)20 525 9111"
+            },
+    "faculties":
+            [
+                    {
+                            "name": "Faculteit Economie en Bedrijfskunde"
+                    },
+
+                    {
+                            "name": "Faculteit der Geesteswetenschappen"
+                    },
+
+                    {
+                            "name": "Faculteit der Geneeskunde"
+                    },
+
+                    {
+                            "name": "Faculteit der Natuurwetenschappen, Wiskunde en Informatica"
+                    },
+
+                    {
+                            "name": "Faculteit der Maatschappij- en Gedragswetenschappen"
+                    },
+
+                    {
+                            "name": "Faculteit der Rechtsgeleerdheid"
+                    },
+
+                    {
+                            "name": "Faculteit der Tandheelkunde"
+                    }
+            ]
+}
