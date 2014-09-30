@@ -22,7 +22,7 @@ If `jq` isn't installed on your MAC you have several options;
 	* type `pwd` to check the present working directory (`pwd`)
 	* type `cat jason-jq-test.txt | jq '.name'`
 	* the return value in Terminal should be: `UvA`
-	* now try: `cat jason-jq-test.txt | jq '.faculties'
+	* now try: `cat jason-jq-test.txt | jq '.faculties'`
 	* the return values in Terminal should be:
 												```
 												[
